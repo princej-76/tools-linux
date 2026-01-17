@@ -24,3 +24,4 @@ sudo apt install -y libpcap-dev
 sudo apt install feroxbuster
 git clone https://github.com/mazen160/bfac.git
 sudo rm /lib/python3.*/EXTERNALLY-MANAGED
+sudo apt install paramspider
