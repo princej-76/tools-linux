@@ -1,3 +1,4 @@
+sudo apt install python3-pip
 sudo apt install golang-go
 go install github.com/ffuf/ffuf/v2@latest
 go install github.com/lc/gau/v2/cmd/gau@latest
@@ -21,3 +22,4 @@ go install github.com/projectdiscovery/katana/cmd/katana@latest
 sudo apt install sublist3r
 sudo apt install -y libpcap-dev
 sudo apt install feroxbuster
+git clone https://github.com/mazen160/bfac.git
