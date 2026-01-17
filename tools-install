@@ -18,5 +18,6 @@ go install -v github.com/owasp-amass/amass/v4/...@master
 go install github.com/tomnomnom/unfurl@latest
 go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
 go install github.com/projectdiscovery/katana/cmd/katana@latest
+sudo apt install sublist3r
 sudo apt install -y libpcap-dev
 sudo apt install feroxbuster
